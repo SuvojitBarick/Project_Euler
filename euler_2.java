@@ -4,18 +4,18 @@ public static void main(String[] args)
 {
 	int n1=0;
 	int n2=1;
-	int s=0;
+	int s=0,s1=0;
 	do
 	{
 		s=n1+n2;
 		n1=n2;
 		n2=s;
-		if(n2%2==0)
+		if(s%2==0)
 		{
-			s=s+n2;
+			s1=s1+n2;
 		}
 	}
 		while(n2<4000000);
-		System.out.println(s);
+		System.out.println(s1);
 }
 }
