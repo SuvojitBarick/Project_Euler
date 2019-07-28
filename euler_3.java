@@ -1,4 +1,4 @@
-public class prog3
+public class euler_3
 {
 	public static void largestPrimeFactor(long n)
      { 
