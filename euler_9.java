@@ -1,4 +1,4 @@
-public class prog9 
+public class euler_9 
 {
 	public static void main(String[] args)
 	{
