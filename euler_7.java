@@ -1,4 +1,4 @@
-public class prog7 
+public class euler_7 
 {
 	     public static boolean checkPrime(long n)
           {
